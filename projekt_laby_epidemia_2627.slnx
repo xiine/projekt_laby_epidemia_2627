@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="projekt_laby_epidemia_2627/projekt_laby_epidemia_2627.vcxproj" />
+  <Project Path="projekt_laby_epidemia_2627/projekt_laby_epidemia_2627.vcxproj" Id="8ecd99c9-14a6-44d8-8c00-5d8de2966bc8" />
 </Solution>
