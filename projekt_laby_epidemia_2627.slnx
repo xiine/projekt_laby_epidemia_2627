@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="projekt_laby_epidemia_2627/projekt_laby_epidemia_2627.vcxproj" />
+</Solution>
